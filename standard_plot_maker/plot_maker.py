@@ -1,4 +1,7 @@
-
+"""
+This module provides us with PlotMaker class and some standard
+params sets.
+"""
 
 from abc import ABC, abstractmethod
 from collections import OrderedDict
