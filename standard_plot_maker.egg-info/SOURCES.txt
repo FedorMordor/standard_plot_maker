@@ -1,6 +1,9 @@
 README.md
 setup.py
+standard_plot_maker/__init__.py
+standard_plot_maker/plot_maker.py
 standard_plot_maker.egg-info/PKG-INFO
 standard_plot_maker.egg-info/SOURCES.txt
 standard_plot_maker.egg-info/dependency_links.txt
 standard_plot_maker.egg-info/top_level.txt
+standard_plot_maker/bin/script.py
